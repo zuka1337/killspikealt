@@ -5,7 +5,7 @@ It works with any rrd from rrdtool.
 You can use the interface which is easy to setup or the bash script only on linux machine.
 
 
-The script works passing $1 variable to the script ex:
+The script works passing $1 variable ex:
 
 
 
