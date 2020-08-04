@@ -12,6 +12,7 @@ The script works passing $1 variable to the script ex:
 ./spikeremovealt.sh /path/path/example.rrd
 
 Spike field: You can insert one and only spike path
+
 MultiSpike: You can insert as much as you want to.
 
 ![image-20200804095724218](https://github.com/zuka1337/killspikealt/blob/master/ex.png?raw=true)
