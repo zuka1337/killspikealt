@@ -1,11 +1,13 @@
 This is spike, alternative and easy external page for exclude high values from an rrd graph.
 
+
 It works with any rrd from rrdtool.
 You can use the interface which is easy to setup or the bash script only on linux machine.
 
-There is no secret using this.
 
 The script works passing $1 variable to the script ex:
+
+
 
 .spikekill /path/path/example.rrd
 
