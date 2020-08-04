@@ -12,7 +12,7 @@ The script works passing $1 variable to the script ex:
 Spike field: You can insert one and only spike path
 MultiSpike: You can insert as much as you want to.
 
-![image-20200804095724218](C:\Users\JhonatanMagalhães\AppData\Roaming\Typora\typora-user-images\image-20200804095724218.png)
+![image-20200804095724218](https://github.com/zuka1337/killspikealt/blob/master/ex.png?raw=true)
 
 
 
