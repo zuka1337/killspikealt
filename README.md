@@ -9,7 +9,7 @@ The script works passing $1 variable to the script ex:
 
 
 
-.spikekill /path/path/example.rrd
+./spikeremovealt.sh /path/path/example.rrd
 
 Spike field: You can insert one and only spike path
 MultiSpike: You can insert as much as you want to.
